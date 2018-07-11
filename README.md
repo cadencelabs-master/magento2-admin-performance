@@ -8,6 +8,6 @@ OSL 3.0
 
 ### More Info
 
-For user guide & full details see: https://www.cadence-labs.com
+For user guide & full details see: https://www.cadence-labs.com/2018/07/magento-2-fix-admin-panel-resets-shipping-method-after-every-field-change/
 
 
