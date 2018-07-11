@@ -1,0 +1,13 @@
+<?php
+/**
+ * @author Alan Barber <alan@cadence-labs.com>
+ */
+?>
+<?php /** @var $block \Magento\Sales\Block\Adminhtml\Order\Create\Shipping\Method\Form */ ?>
+<?php /** @mod @author Alan Barber - Always allow them to reset the method */ ?>
+<div id="order-shipping-method-reload" class="">
+    <a href="#" onclick="order.loadShippingRates();return false" class="action-default">
+        <span><?php /* @escapeNotVerified */ echo __('Get shipping methods and rates') ?></span>
+    </a>
+<!--        <input type="hidden" name="order[has_shipping]" value="" class="required-entry" />-->
+</div>
