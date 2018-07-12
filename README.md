@@ -1,6 +1,6 @@
 # cadence/magento2-admin-performance
-## Magento 2 Fix Issue With Admin Panel Resetting Shipping Methods After Every Change
-This extension adds a fix to Magento 2.x to prevent the admin panel from resetting the shipping methods section after every change to an address, payment method, or product section.
+## Magento 2 Fix Issue With Admin Panel Reloading Shipping Methods After Every Change
+This extension adds a fix to Magento 2.x to prevent the admin panel from making an AJAX request to reload the shipping methods section after every change to an address, payment method, or product section.
 
 ### License
 
